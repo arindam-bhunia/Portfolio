@@ -1,65 +1,73 @@
-
-# 🧰 Arindam's Project Portfolio
+# 🧰 Arindam’s GitHub Portfolio
 
 Welcome to my GitHub portfolio! 🚀  
-Here you'll find a curated collection of my projects categorized by domain, language, and purpose.  
-I work on **Data Science**, **Web Development**, **Automation**, **Competitive Coding**, and more.
+Here you’ll find a curated collection of my public projects, grouped by domain.
 
 ---
 
 ## 🗂️ Project Categories
 
 ### 📊 Data Science & Analytics
-- **[Credit Card Transaction Analyzer](https://github.com/username/credit-card-analyzer)** – Insights on spending behavior using Power BI & Python.
-- **[Sales Forecasting Model](https://github.com/username/sales-forecasting)** – Time series analysis with ARIMA, Prophet, and LSTM.
-- **[NLP Sentiment Classifier](https://github.com/username/nlp-sentiment)** – Text classification using sklearn and transformers.
+- **[Credit Card Transaction Analyzer](https://github.com/arindam-bhunia/credit-card-analyzer)** – Insights into spending behavior using Python.  
+- **[Sales Forecasting Model](https://github.com/arindam-bhunia/sales-forecasting)** – Time-series forecasting with ARIMA, Prophet & LSTM.
 
 ### 🌐 Web Development
-- **[Task Manager App](https://github.com/username/task-manager)** – A full-stack productivity tool built with MERN.
-- **[Portfolio Website](https://github.com/username/portfolio-site)** – Personal website built with React & Tailwind CSS.
+- **[Task Manager App](https://github.com/arindam-bhunia/task-manager)** – A full‑stack MERN productivity tool.  
+- **[Portfolio Website](https://github.com/arindam-bhunia/portfolio-site)** – Personal React + Tailwind CSS website.
 
 ### 🐍 Python Scripts & Automation
-- **[LinkedIn Scraper + AI Summary](https://github.com/username/linkedin-ai-summarizer)** – Chrome extension + Gemini API + Google Sheets integration.
-- **[Folder Locker](https://github.com/username/folder-locker)** – Password-protected folder script for Windows using batch and VBScript.
-- **[Bulk Image Resizer](https://github.com/username/image-resizer)** – Simple CLI tool using Pillow.
+- **[LinkedIn Scraper + AI Summary](https://github.com/arindam-bhunia/linkedin-ai-summarizer)** – Chrome extension + Gemini API + Sheets.  
+- **[Folder Locker](https://github.com/arindam-bhunia/folder-locker)** – Password‑protected Windows folder via VBScript.  
+- **[Bulk Image Resizer](https://github.com/arindam-bhunia/image-resizer)** – CLI tool using Pillow.
+
+### 📊 Excel Projects
+- **[Excel‑OpenAI Integration](https://github.com/arindam-bhunia/excel-openai)** – Run LLM queries directly inside Excel.  
+- *(Add your own Excel project here)*
+
+### 📈 Power BI Projects
+- **[Sales Dashboard](https://github.com/arindam-bhunia/powerbi-sales-dashboard)** – Interactive sales reports in Power BI.  
+- *(Add your Power BI project here)*
+
+### 🗄️ SQL Projects
+- **[Movie DB Analytics](https://github.com/arindam-bhunia/movie-sql-analytics)** – SQL scripts analyzing movie datasets.  
+- *(Add your SQL project here)*
 
 ### ⚙️ Tools & Utilities
-- **[Excel + OpenAI Integration](https://github.com/username/excel-openai)** – Run LLM queries inside Excel & Google Sheets.
-- **[Resume ATS Optimizer](https://github.com/username/resume-ats)** – Boost your resume score for job portals.
+- **[Resume ATS Optimizer](https://github.com/arindam-bhunia/resume-ats)** – Boost resume scores for job portals.
 
 ### 📚 LaTeX Notes and Reports
-- **[Advanced Particle Physics Notes](https://github.com/username/particle-physics-notes)** – Well-formatted Overleaf-compatible notes.
-- **[Reusable Chapters Template](https://github.com/username/latex-shared-chapters)** – Shared LaTeX components for multiple documents.
+- **[Advanced Particle Physics Notes](https://github.com/arindam-bhunia/particle-physics-notes)** – Overleaf‑ready LaTeX notes.  
+- **[Reusable Chapters Template](https://github.com/arindam-bhunia/latex-shared-chapters)** – Shared templates for LaTeX docs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, LaTeX, SQL, Shell Script  
-- **Tools:** Power BI, Excel, Git, VS Code, Google APIs  
-- **Libraries:** Pandas, Scikit-learn, TensorFlow, Flask, React  
-- **Platforms:** GitHub, Overleaf, LinkedIn, Google Cloud, Streamlit
+- **Languages:** Python, JavaScript, SQL, LaTeX, Shell  
+- **Tools:** Power BI, Excel, Git, VS Code, Chrome Extension APIs  
+- **Libraries:** Pandas, Scikit‑learn, TensorFlow, React  
+- **Platforms:** GitHub, Overleaf, Google Cloud, Streamlit
 
 ---
 
 ## 📌 How to Navigate
 
-Each repository has:
-- 📄 A well-documented `README.md`
-- 🧪 Demo files (where applicable)
-- 🚀 Installation or usage instructions
+Each repo includes:
+- 📄 A detailed `README.md`
+- 🧪 Demo files/screenshots
+- 🚀 Setup or run instructions
 
-Check out the pinned repos or browse through the Projects section for more.
+Browse the pinned repos or scroll through the sections above to explore!
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let’s Connect
 
-- ✉️ [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- ✉️ [Email](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
 - 🌐 [Website](https://yourwebsite.com)
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-Thanks for visiting! 🙌
+> *“Code is like humor. If you have to explain it, it’s bad.”* – Cory House  
+Thanks for stopping by! 🙌
